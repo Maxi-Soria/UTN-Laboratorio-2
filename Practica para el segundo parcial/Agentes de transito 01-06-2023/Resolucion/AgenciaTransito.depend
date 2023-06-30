@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1687906213 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1687906213 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\agente.h
+	<string>
+
+1687906213 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1687906213 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1687906213 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1687906213 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\fecha.h
+	<string>
+
+1687962157 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\main.cpp
+	<iostream>
+	"ModeloDeParcial.h"
+
+1687906213 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1687906214 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\multa.h
+	<string>
+	"Fecha.h"
+
+1687906214 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1687906214 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1687906214 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1687906214 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1687906897 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\modelodeparcial.h
+	"MultaArchivo.h"
+
+1687964973 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\resolucion\modelodeparcial.cpp
+	"ModeloDeParcial.h"
+	"AgenteArchivo.h"
+	<iostream>
+
+1687906213 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1687906213 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\agente.h
+	<string>
+
+1687906213 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1687906213 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1687906213 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1687906213 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\fecha.h
+	<string>
+
+1687965031 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\main.cpp
+	<iostream>
+	"ModeloDeParcial.h"
+
+1687906897 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\modelodeparcial.h
+	"MultaArchivo.h"
+
+1687906214 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1687906214 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\multa.h
+	<string>
+	"Fecha.h"
+
+1687964973 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\modelodeparcial.cpp
+	"ModeloDeParcial.h"
+	"AgenteArchivo.h"
+	<iostream>
+
+1687906213 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1687906214 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1687906214 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1687906214 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agentes de transito 01-06-2023\resolucion\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+

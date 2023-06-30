@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1681412158 source:c:\users\erica\desktop\laboratorio 2\actividades semana 01\clase fecha\calse fecha\main.cpp
+	<iostream>
+	"fecha.h"
+
+1681413430 c:\users\erica\desktop\laboratorio 2\actividades semana 01\clase fecha\calse fecha\include\fecha.h
+
+1683123185 source:c:\users\erica\desktop\laboratorio 2\actividades\clase fecha\calse fecha\main.cpp
+	<iostream>
+	"fecha.h"
+
+1683123055 c:\users\erica\desktop\laboratorio 2\actividades\clase fecha\calse fecha\include\fecha.h
+	<string>
+
+1683123223 source:c:\users\erica\desktop\laboratorio 2\actividades\clase fecha\calse fecha\src\fecha.cpp
+	"fecha.h"
+	<iostream>
+

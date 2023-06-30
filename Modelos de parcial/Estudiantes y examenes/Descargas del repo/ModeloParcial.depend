@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1653599131 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/estudiante.cpp
+	<cstring>
+	<iostream>
+	"estudiante.h"
+
+1653599228 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/estudiante.h
+	<string>
+	"fecha.h"
+
+1652994026 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/fecha.h
+	<string>
+
+1653599352 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/examen.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"examen.h"
+
+1653599245 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/examen.h
+	<string>
+	"fecha.h"
+
+1652994026 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1653599970 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/main.cpp
+	<iostream>
+	<cstdio>
+	"estudiante.h"
+	"examen.h"
+
+1665086500 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665085935 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086511 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\fecha.h
+	<string>
+
+1665086935 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665086934 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiantesarchivo.h
+	"Estudiante.h"
+
+1665086361 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examen.cpp
+	<iostream>
+	<string>
+	"Examen.h"
+
+1653599245 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examen.h
+	<string>
+	"fecha.h"
+
+1665086425 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examenesarchivo.cpp
+	"ExamensArchivo.h"
+
+1665086371 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examensarchivo.h
+	"Examen.h"
+
+1652994026 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\fecha.cpp
+	"fecha.h"
+	<ctime>
+

@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1669925177 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\claseparticular.cpp
+	"ClaseParticular.h"
+
+1669925180 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\claseparticular.h
+	<string>
+
+1669925350 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\clasesparticularesarchivo.cpp
+	"ClasesParticularesArchivo.h"
+
+1669925453 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\clasesparticularesarchivo.h
+	"ClaseParticular.h"
+
+1665086500 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665687005 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086511 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\fecha.h
+	<string>
+
+1665686851 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665686839 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\estudiantesarchivo.h
+	"Estudiante.h"
+
+1652994026 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1688062844 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\main.cpp
+	<iostream>
+	"RecuperatorioParcial.h"
+
+1688062739 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\recuperatorioparcial.cpp
+	"RecuperatorioParcial.h"
+	"EstadisticaArchivo.h"
+
+1688062689 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\recuperatorioparcial.h
+	"ClasesParticularesArchivo.h"
+	"EstudiantesArchivo.h"
+	<iostream>
+
+1688062711 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\estadistica.cpp
+	"Estadistica.h"
+	<iostream>
+
+1688062689 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\estadistica.h
+
+1688060919 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\estadisticaarchivo.cpp
+	"EstadisticaArchivo.h"
+	<cstring>
+	<iostream>
+
+1688060569 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\clases particulaes\resolucion\estadisticaarchivo.h
+	"Estadistica.h"
+

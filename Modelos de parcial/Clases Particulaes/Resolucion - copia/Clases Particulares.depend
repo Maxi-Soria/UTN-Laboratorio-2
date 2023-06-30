@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1669925177 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\claseparticular.cpp
+	"ClaseParticular.h"
+
+1669925180 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\claseparticular.h
+	<string>
+
+1669925350 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\clasesparticularesarchivo.cpp
+	"ClasesParticularesArchivo.h"
+
+1669925453 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\clasesparticularesarchivo.h
+	"ClaseParticular.h"
+
+1665086500 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665687005 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086511 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\fecha.h
+	<string>
+
+1665686851 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665686839 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\estudiantesarchivo.h
+	"Estudiante.h"
+
+1652994026 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1685624489 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\main.cpp
+	<iostream>
+	"RecuperatorioPrimerParcial.h"
+	"ClasesParticularesArchivo.h"
+
+1685579059 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\recuperatorioprimerparcial.cpp
+	"RecuperatorioPrimerParcial.h"
+	"ClasesParticularesArchivo.h"
+	"EstudiantesArchivo.h"
+	<cstring>
+	<iostream>
+
+1685576218 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\clases particulaes\resolucion\recuperatorioprimerparcial.h
+

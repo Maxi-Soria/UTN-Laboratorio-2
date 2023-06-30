@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1683138147 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\src\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1683139117 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\include\fecha.h
+	<string>
+
+1683159999 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\src\tarea.cpp
+	<iostream>
+	"Tarea.h"
+
+1683159999 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\include\tarea.h
+	"Fecha.h"
+
+1683297498 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\main.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	"funciones.h"
+
+1683297623 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\src\listadetareas.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	<iomanip>
+	"funciones.h"
+
+1683297623 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\include\listadetareas.h
+	"Tarea.h"
+
+1683295265 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\include\funciones.h
+	"ListaDeTareas.h"
+
+1683295265 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\src\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+	"ListaDeTareas.h"
+
+1683138147 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\src\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1683139117 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\include\fecha.h
+	<string>
+
+1683295265 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\src\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+	"ListaDeTareas.h"
+
+1683295265 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\include\funciones.h
+	"ListaDeTareas.h"
+
+1683413378 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\include\listadetareas.h
+	"Tarea.h"
+
+1683159999 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\include\tarea.h
+	"Fecha.h"
+
+1683297623 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\src\listadetareas.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	<iomanip>
+	"funciones.h"
+
+1683410616 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\src\tarea.cpp
+	<iostream>
+	"Tarea.h"
+
+1683411972 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tarea respaldado\lista de tareas\main.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	"funciones.h"
+

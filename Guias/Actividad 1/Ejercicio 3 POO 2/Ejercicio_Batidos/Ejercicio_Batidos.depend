@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1682117602 source:c:\users\erica\desktop\laboratorio 2\actividades semana 01\ejercicio 3 poo 2\ejercicio_batidos\src\bidon.cpp
+	<iostream>
+	<cstdlib>
+	"Bidon.h"
+
+1682117602 c:\users\erica\desktop\laboratorio 2\actividades semana 01\ejercicio 3 poo 2\ejercicio_batidos\include\bidon.h
+	<cstring>
+
+1682099132 source:c:\users\erica\desktop\laboratorio 2\actividades semana 01\ejercicio 3 poo 2\ejercicio_batidos\main.cpp
+	<iostream>
+	"Bidon.h"
+
+1682119648 source:c:\users\erica\desktop\laboratorio 2\actividades\guias\actividad 1\ejercicio 3 poo 2\ejercicio_batidos\main.cpp
+	<iostream>
+	"Bidon.h"
+
+1682117602 c:\users\erica\desktop\laboratorio 2\actividades\guias\actividad 1\ejercicio 3 poo 2\ejercicio_batidos\include\bidon.h
+	<cstring>
+
+1682117602 source:c:\users\erica\desktop\laboratorio 2\actividades\guias\actividad 1\ejercicio 3 poo 2\ejercicio_batidos\src\bidon.cpp
+	<iostream>
+	<cstdlib>
+	"Bidon.h"
+

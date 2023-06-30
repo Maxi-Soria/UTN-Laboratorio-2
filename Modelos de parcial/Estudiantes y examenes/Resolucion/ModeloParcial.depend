@@ -1,0 +1,220 @@
+# depslib dependency file v1.0
+1653599131 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/estudiante.cpp
+	<cstring>
+	<iostream>
+	"estudiante.h"
+
+1653599228 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/estudiante.h
+	<string>
+	"fecha.h"
+
+1652994026 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/fecha.h
+	<string>
+
+1653599352 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/examen.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"examen.h"
+
+1653599245 /home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/examen.h
+	<string>
+	"fecha.h"
+
+1652994026 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1653599970 source:/home/angel/UTN/Github/laboratorio2-20221c/Clase 11/ModeloParcial/main.cpp
+	<iostream>
+	<cstdio>
+	"estudiante.h"
+	"examen.h"
+
+1665086500 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665085935 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086511 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\fecha.h
+	<string>
+
+1665086935 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665086934 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\estudiantesarchivo.h
+	"Estudiante.h"
+
+1665086361 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examen.cpp
+	<iostream>
+	<string>
+	"Examen.h"
+
+1653599245 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examen.h
+	<string>
+	"fecha.h"
+
+1665086425 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examenesarchivo.cpp
+	"ExamensArchivo.h"
+
+1665086371 e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\examensarchivo.h
+	"Examen.h"
+
+1652994026 source:e:\github\educacion\utn\laboratorio2-20222c\clase #09\modeloparcialcb\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\estudiante.h
+	<string>
+	"Fecha.h"
+
+1685208777 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\fecha.h
+	<string>
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\estudiantesarchivo.h
+	"Estudiante.h"
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\examen.cpp
+	<iostream>
+	<string>
+	"Examen.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\examen.h
+	<string>
+	"fecha.h"
+
+1685208777 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\examenesarchivo.cpp
+	"ExamenesArchivo.h"
+
+1685208777 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\examenesarchivo.h
+	"Examen.h"
+
+1685208777 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1685223377 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\main.cpp
+	<iostream>
+	"ModeloParcial.h"
+
+1685212319 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\modeloparcial.h
+
+1685223364 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes\resolucion\modeloparcial.cpp
+	<iostream>
+	<iomanip>
+	"EstudiantesArchivo.h"
+	"ExamenesArchivo.h"
+	"ModeloParcial.h"
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\estudiante.h
+	<string>
+	"Fecha.h"
+
+1685208777 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\fecha.h
+	<string>
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\estudiantesarchivo.h
+	"Estudiante.h"
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\examen.cpp
+	<iostream>
+	<string>
+	"Examen.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\examen.h
+	<string>
+	"fecha.h"
+
+1685208777 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\examenesarchivo.cpp
+	"ExamenesArchivo.h"
+
+1685208777 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\examenesarchivo.h
+	"Examen.h"
+
+1685208777 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1685399097 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\modeloparcial.cpp
+	<iostream>
+	<iomanip>
+	"EstudiantesArchivo.h"
+	"ExamenesArchivo.h"
+	"ModeloParcial.h"
+
+1685212319 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\modeloparcial.h
+
+1685399189 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y examenes\resolucion\main.cpp
+	<iostream>
+	"ModeloParcial.h"
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\estudiante.h
+	<string>
+	"Fecha.h"
+
+1685208777 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\fecha.h
+	<string>
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\estudiantesarchivo.h
+	"Estudiante.h"
+
+1685208776 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\examen.cpp
+	<iostream>
+	<string>
+	"Examen.h"
+
+1685208776 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\examen.h
+	<string>
+	"fecha.h"
+
+1685208777 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\examenesarchivo.cpp
+	"ExamenesArchivo.h"
+
+1685208777 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\examenesarchivo.h
+	"Examen.h"
+
+1685208777 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1685400541 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\main.cpp
+	<iostream>
+	"ModeloParcial.h"
+
+1685212319 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\modeloparcial.h
+
+1685636419 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y examenes\resolucion\modeloparcial.cpp
+	<iostream>
+	<iomanip>
+	"EstudiantesArchivo.h"
+	"ExamenesArchivo.h"
+	"ModeloParcial.h"
+

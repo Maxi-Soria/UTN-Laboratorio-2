@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1683053961 source:c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\src\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1683034403 c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\include\fecha.h
+	<string>
+
+1683036968 source:c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\src\pelicula.cpp
+	<iostream>
+	<cstdlib>
+	"Pelicula.h"
+
+1683036969 c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\include\pelicula.h
+	<string>
+	"Fecha.h"
+
+1683059570 source:c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\main.cpp
+	<iostream>
+	"Pelicula.h"
+	"RankingDePeliculas.h"
+	"funciones.h"
+
+1683061077 source:c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\src\rankingdepeliculas.cpp
+	<iostream>
+	<cstdlib>
+	"RankingDePeliculas.h"
+
+1683060360 c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\include\rankingdepeliculas.h
+	"Pelicula.h"
+
+1683058066 c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\include\funciones.h
+	"Pelicula.h"
+
+1683058066 source:c:\users\erica\desktop\laboratorio 2\actividades\proyecto ranking de peliculas\ranking de peliculas\src\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<string>
+
+1683053961 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\src\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1683034403 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\include\fecha.h
+	<string>
+
+1683058066 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\src\funciones.cpp
+	<iostream>
+	"funciones.h"
+	<string>
+
+1683058066 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\include\funciones.h
+	"Pelicula.h"
+
+1683036969 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\include\pelicula.h
+	<string>
+	"Fecha.h"
+
+1683414538 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\src\pelicula.cpp
+	<iostream>
+	<cstdlib>
+	"Pelicula.h"
+
+1684017340 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\src\rankingdepeliculas.cpp
+	<iostream>
+	<cstdlib>
+	"RankingDePeliculas.h"
+
+1684017340 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\include\rankingdepeliculas.h
+	"Pelicula.h"
+
+1684017340 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\ranking de peliculas\main.cpp
+	<iostream>
+	"Pelicula.h"
+	"RankingDePeliculas.h"
+	"funciones.h"
+

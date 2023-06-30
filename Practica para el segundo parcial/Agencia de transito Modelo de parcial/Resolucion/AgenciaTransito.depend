@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1684500390 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1684500390 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\agente.h
+	<string>
+
+1684500390 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1684500390 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1684500390 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1684500390 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\fecha.h
+	<string>
+
+1687983588 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\main.cpp
+	<iostream>
+	"ModeloParcial.h"
+
+1684500390 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1684500390 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\multa.h
+	<string>
+	"Fecha.h"
+
+1684500390 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1684500390 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1684500390 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1684500390 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1687983497 source:c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\modeloparcial.cpp
+	"ModeloParcial.h"
+	"AgenteArchivo.h"
+	"MultaArchivo.h"
+	"MultaManager.h"
+	<iostream>
+	<iomanip>
+
+1687978225 c:\users\erica\desktop\laboratorio 2\practica para el segundo parcial\agencia de transito modelo de parcial\resolucion\modeloparcial.h
+

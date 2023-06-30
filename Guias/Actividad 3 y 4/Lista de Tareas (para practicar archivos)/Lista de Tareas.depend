@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1683138147 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\src\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1683139117 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\include\fecha.h
+	<string>
+
+1683312168 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\src\tarea.cpp
+	<iostream>
+	"Tarea.h"
+
+1683305192 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\include\tarea.h
+	"Fecha.h"
+
+1683313325 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\main.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	"funciones.h"
+
+1683311125 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\src\listadetareas.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	<iomanip>
+	"funciones.h"
+
+1683311125 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\include\listadetareas.h
+	"Tarea.h"
+
+1683295265 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\include\funciones.h
+	"ListaDeTareas.h"
+
+1683308599 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas\src\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+	"ListaDeTareas.h"
+
+1683138147 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas (para practicar archivos)\src\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1683139117 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas (para practicar archivos)\include\fecha.h
+	<string>
+
+1683308599 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas (para practicar archivos)\src\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+	"ListaDeTareas.h"
+
+1683295265 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas (para practicar archivos)\include\funciones.h
+	"ListaDeTareas.h"
+
+1683311125 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas (para practicar archivos)\include\listadetareas.h
+	"Tarea.h"
+
+1683305192 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas (para practicar archivos)\include\tarea.h
+	"Fecha.h"
+
+1683311125 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas (para practicar archivos)\src\listadetareas.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	<iomanip>
+	"funciones.h"
+
+1684330756 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\lista de tareas (para practicar archivos)\main.cpp
+	<iostream>
+	"ListaDeTareas.h"
+	"funciones.h"
+

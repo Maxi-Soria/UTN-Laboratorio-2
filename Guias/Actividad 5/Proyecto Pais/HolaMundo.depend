@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1684453045 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\proyecto pais\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1684453045 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\proyecto pais\ciudad.h
+
+1684457306 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\proyecto pais\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1684456923 c:\users\erica\desktop\laboratorio 2\actividades\proyectos\proyecto pais\pais.h
+
+1684457825 source:c:\users\erica\desktop\laboratorio 2\actividades\proyectos\proyecto pais\main.cpp
+	<iostream>
+	<cstring>
+	"Pais.h"
+	"Ciudad.h"
+

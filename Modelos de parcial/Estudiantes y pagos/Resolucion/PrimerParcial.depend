@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1665086502 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665687006 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086512 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\fecha.h
+	<string>
+
+1665686852 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665686840 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\estudiantesarchivo.h
+	"Estudiante.h"
+
+1652994026 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1685234139 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\pago.cpp
+	"Pago.h"
+
+1685234766 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\pago.h
+	"Fecha.h"
+
+1665686940 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\pagosarchivo.cpp
+	"PagosArchivo.h"
+
+1665687018 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\pagosarchivo.h
+	"Pago.h"
+
+1685403090 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\main.cpp
+	<iostream>
+	"PrimerParcial.h"
+	"PagosArchivo.h"
+
+1685408478 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\primerparcial.cpp
+	<iostream>
+	"PrimerParcial.h"
+	"PagosArchivo.h"
+	"EstudiantesArchivo.h"
+	<iomanip>
+
+1685283699 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\primerparcial.h
+
+1685280582 source:c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\estadistica.cpp
+	"Estadistica.h"
+
+1685283699 c:\users\erica\desktop\laboratorio 2\modelo de primer parcial\estudiantes y pagos\resolucion\estadistica.h
+
+1685280582 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\estadistica.cpp
+	"Estadistica.h"
+
+1685283699 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\estadistica.h
+
+1665086502 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665687006 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086512 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\fecha.h
+	<string>
+
+1665686852 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665686840 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\estudiantesarchivo.h
+	"Estudiante.h"
+
+1652994026 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1685498393 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\main.cpp
+	<iostream>
+	"PrimerParcial.h"
+	"PagosArchivo.h"
+
+1685497877 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\primerparcial.h
+
+1665687018 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\pagosarchivo.h
+	"Pago.h"
+
+1685495047 c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\pago.h
+	"Fecha.h"
+
+1685495047 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\pago.cpp
+	"Pago.h"
+
+1665686940 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\pagosarchivo.cpp
+	"PagosArchivo.h"
+
+1685545974 source:c:\users\erica\desktop\laboratorio 2\modelos de primer parcial\estudiantes y pagos\resolucion\primerparcial.cpp
+	<iostream>
+	"PrimerParcial.h"
+	"PagosArchivo.h"
+	"EstudiantesArchivo.h"
+	<iomanip>
+	<cstring>
+
