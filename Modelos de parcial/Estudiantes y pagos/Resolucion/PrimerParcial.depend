@@ -106,3 +106,57 @@
 	<iomanip>
 	<cstring>
 
+1685280582 source:f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\estadistica.cpp
+	"Estadistica.h"
+
+1685283699 f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\estadistica.h
+
+1665086502 source:f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\estudiante.cpp
+	<cstring>
+	<iostream>
+	"Estudiante.h"
+
+1665687006 f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\estudiante.h
+	<string>
+	"Fecha.h"
+
+1665086512 f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\fecha.h
+	<string>
+
+1665686852 source:f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\estudiantesarchivo.cpp
+	"EstudiantesArchivo.h"
+
+1665686840 f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\estudiantesarchivo.h
+	"Estudiante.h"
+
+1652994026 source:f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\fecha.cpp
+	"fecha.h"
+	<ctime>
+
+1685628649 source:f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\main.cpp
+	<iostream>
+	"PrimerParcial.h"
+	"PagosArchivo.h"
+
+1685497877 f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\primerparcial.h
+
+1665687018 f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\pagosarchivo.h
+	"Pago.h"
+
+1685495047 f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\pago.h
+	"Fecha.h"
+
+1685495047 source:f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\pago.cpp
+	"Pago.h"
+
+1665686940 source:f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\pagosarchivo.cpp
+	"PagosArchivo.h"
+
+1685545974 source:f:\utn\para git\laboratorio 2\modelos de parcial\estudiantes y pagos\resolucion\primerparcial.cpp
+	<iostream>
+	"PrimerParcial.h"
+	"PagosArchivo.h"
+	"EstudiantesArchivo.h"
+	<iomanip>
+	<cstring>
+

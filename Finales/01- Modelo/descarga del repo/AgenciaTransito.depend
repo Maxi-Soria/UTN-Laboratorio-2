@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1684280746 source:c:\users\usuario\onedrive\escritorio\agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1684359900 c:\users\usuario\onedrive\escritorio\agenciatransito\agente.h
+	<string>
+
+1684280862 source:c:\users\usuario\onedrive\escritorio\agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1684280914 c:\users\usuario\onedrive\escritorio\agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1689290433 source:c:\users\usuario\onedrive\escritorio\agenciatransito\examen.cpp
+	<iostream>
+	"Examen.h"
+	"TipoInfraccionArchivo.h"
+	"AgenteArchivo.h"
+	"MultaArchivo.h"
+
+1689290433 c:\users\usuario\onedrive\escritorio\agenciatransito\examen.h
+
+1683846750 source:c:\users\usuario\onedrive\escritorio\agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1684279156 c:\users\usuario\onedrive\escritorio\agenciatransito\fecha.h
+	<string>
+
+1684279694 source:c:\users\usuario\onedrive\escritorio\agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1684280324 c:\users\usuario\onedrive\escritorio\agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1684279680 source:c:\users\usuario\onedrive\escritorio\agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1684278570 c:\users\usuario\onedrive\escritorio\agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1684279772 source:c:\users\usuario\onedrive\escritorio\agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1684278992 c:\users\usuario\onedrive\escritorio\agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1689289631 source:c:\users\usuario\onedrive\escritorio\agenciatransito\tipoinfraccion.cpp
+	<iostream>
+	<cstring>
+	"TipoInfraccion.h"
+
+1689289632 c:\users\usuario\onedrive\escritorio\agenciatransito\tipoinfraccion.h
+
+1689288284 source:c:\users\usuario\onedrive\escritorio\agenciatransito\main.cpp
+	<iostream>
+	"TipoInfraccionArchivo.h"
+	"Examen.h"
+	"MultaArchivo.h"
+
+1689289633 source:c:\users\usuario\onedrive\escritorio\agenciatransito\tipoinfraccionarchivo.cpp
+	<iostream>
+	"TipoInfraccionArchivo.h"
+	"TipoInfraccion.h"
+
+1689289634 c:\users\usuario\onedrive\escritorio\agenciatransito\tipoinfraccionarchivo.h
+	"TipoInfraccion.h"
+
+1684280746 source:c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1684359900 c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\agente.h
+	<string>
+
+1684280862 source:c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1684280914 c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1683846750 source:c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1684279156 c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\fecha.h
+	<string>
+
+1684279694 source:c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1684280324 c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\multa.h
+	<string>
+	"Fecha.h"
+
+1684279680 source:c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1684278570 c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1684279772 source:c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1684278992 c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1689289631 source:c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\tipoinfraccion.cpp
+	<iostream>
+	<cstring>
+	"TipoInfraccion.h"
+
+1689289632 c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\tipoinfraccion.h
+
+1689289633 source:c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\tipoinfraccionarchivo.cpp
+	<iostream>
+	"TipoInfraccionArchivo.h"
+	"TipoInfraccion.h"
+
+1689289634 c:\users\usuario\onedrive\escritorio\final 2023 agenciatransito\tipoinfraccionarchivo.h
+	"TipoInfraccion.h"
+
+1697565092 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\agente.cpp
+	"Agente.h"
+	<cstring>
+
+1697565092 f:\utn\para git\laboratorio 2\finales\descarga del repo\agente.h
+	<string>
+
+1697565092 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\agentearchivo.cpp
+	"AgenteArchivo.h"
+	<cstdio>
+
+1697565092 f:\utn\para git\laboratorio 2\finales\descarga del repo\agentearchivo.h
+	"Agente.h"
+	<string>
+
+1697565092 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\examen.cpp
+	<iostream>
+	"Examen.h"
+	"TipoInfraccionArchivo.h"
+	"AgenteArchivo.h"
+	"MultaArchivo.h"
+
+1697565092 f:\utn\para git\laboratorio 2\finales\descarga del repo\examen.h
+
+1697565093 f:\utn\para git\laboratorio 2\finales\descarga del repo\tipoinfraccionarchivo.h
+	"TipoInfraccion.h"
+
+1697565093 f:\utn\para git\laboratorio 2\finales\descarga del repo\tipoinfraccion.h
+
+1697565093 f:\utn\para git\laboratorio 2\finales\descarga del repo\multaarchivo.h
+	"Multa.h"
+	<string>
+
+1697565093 f:\utn\para git\laboratorio 2\finales\descarga del repo\multa.h
+	<string>
+	"Fecha.h"
+
+1697565093 f:\utn\para git\laboratorio 2\finales\descarga del repo\fecha.h
+	<string>
+
+1697565092 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\fecha.cpp
+	<string>
+	"Fecha.h"
+
+1697565093 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\multa.cpp
+	"Multa.h"
+	<string>
+	<cstring>
+
+1697565093 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\multaarchivo.cpp
+	"MultaArchivo.h"
+	<cstdio>
+
+1697565093 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\multamanager.cpp
+	<iostream>
+	"MultaManager.h"
+
+1697565093 f:\utn\para git\laboratorio 2\finales\descarga del repo\multamanager.h
+	"Multa.h"
+	"MultaArchivo.h"
+
+1697565093 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\tipoinfraccion.cpp
+	<iostream>
+	<cstring>
+	"TipoInfraccion.h"
+
+1697565093 source:f:\utn\para git\laboratorio 2\finales\descarga del repo\tipoinfraccionarchivo.cpp
+	<iostream>
+	"TipoInfraccionArchivo.h"
+	"TipoInfraccion.h"
+
